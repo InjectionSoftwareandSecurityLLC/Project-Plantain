@@ -1,6 +1,7 @@
 {
+    "name": "Project Plantain",
+    "version": "1.0",
     "platform": "all",
     "progress": "0%",
-    "state": "in-progess",
-    "version": "1.0"
+    "state": "in-progess"
 }
