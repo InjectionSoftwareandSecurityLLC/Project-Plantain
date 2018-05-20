@@ -5,6 +5,6 @@
     "progress": "0%",
     "state": "in-progress",
     "released": false,
-    "release-version": "",
-    "download-url": ""
+    "release_version": "",
+    "download_url": ""
 }
