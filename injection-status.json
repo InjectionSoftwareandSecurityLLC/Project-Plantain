@@ -3,5 +3,7 @@
     "version": "1.0",
     "platform": "all",
     "progress": "0%",
-    "state": "in-progress"
+    "state": "in-progress",
+    "released": false,
+    "release-version": ""
 }
