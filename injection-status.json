@@ -6,5 +6,7 @@
     "state": "in-progress",
     "released": false,
     "release_version": "",
-    "download_url": ""
+    "download_url": "",
+    "featured": false,
+    "featured_image": ""
 }
